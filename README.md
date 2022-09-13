@@ -1,5 +1,5 @@
 # Chat Application
-## Getting Started with Employee Management App
+## Getting Started with Chat Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Create Nodejs App](https://github.com/nodejs/node).
 
