@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 This project needs to be run seperately
 In the project directory, you can run the projects seperately:
-## Backend - Nestjs
+## Backend - Nodejs
 Chat-backend
 
 Open the chat-backend folder in code editor/terminal and run the following command
